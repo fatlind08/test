@@ -1,3 +1,81 @@
 #EXTM3U
-#EXTINF:0,Dein ABO ist zuende
-https://www.youtube.com/watch?v=RDfjXj5EGqI
+#EXTINF:-0,SRF 1
+http://s1016-0-136.cdn.iptv.ch/session/98c4de96-5e77-11e7-aeab-005056bc49ac/6cexmz/1/1008/1368000/1493764162.m3u8
+#EXTINF:-0,SRF 1 HD
+http://s1019-0-136.cdn.iptv.ch/session/c91533ea-5e89-11e7-991f-005056bc1a52/6cexmz/1/1008/3305000/1493766120.m3u8
+#EXTINF:-0,SRF 2
+http://s1016-0-136.cdn.iptv.ch/session/3a29ea92-5e78-11e7-9ec3-005056bc1a52/6cexmz/1/1009/1368000/1493765146.m3u8
+#EXTINF:-0,SRF 2 HD
+http://s1017-0-136.cdn.iptv.ch/session/33fc5fb2-5e8a-11e7-8177-005056bc1a52/6cexmz/1/1009/3305000/1493767081.m3u8
+#EXTINF:-0,Pro Sieben
+http://s1021-0-136.cdn.iptv.ch/session/3a87e100-5e79-11e7-b6ed-005056bc1a52/6cexmz/1/1037/1368000/1491047972.m3u8
+#EXTINF:-0,Pro Sieben HD
+http://s1018-0-136.cdn.iptv.ch/session/edda5088-5e8a-11e7-aeab-005056bc49ac/6cexmz/1/1037/3305000/1491049878.m3u8
+#EXTINF:-0,RTL
+http://s1017-0-136.cdn.iptv.ch/session/6727d628-5e7b-11e7-afbd-005056bc49ac/6cexmz/1/1020/1368000/1491825808.m3u8
+#EXTINF:-0,RTL HD
+http://s1019-1-137.cdn.iptv.ch/session/36dbdc70-5e8b-11e7-aeab-005056bc49ac/6cexmz/1/1020/3305000/1491827507.m3u8
+#EXTINF:-0,RTL II
+http://s1018-0-136.cdn.iptv.ch/session/044561c8-5e7c-11e7-a9e7-005056bc1a52/6cexmz/1/1024/1368000/1491825611.m3u8
+#EXTINF:-0,RTL II HD
+http://s1018-0-136.cdn.iptv.ch/session/044561c8-5e7c-11e7-a9e7-005056bc1a52/6cexmz/1/1024/1368000/1491825611.m3u8
+#EXTINF:-0,RTL Nitro
+http://s1042-1-137.cdn.iptv.ch/session/25441926-5e97-11e7-8260-005056bc06d1/6cexmz/1/1027/3305000/1491822676.m3u8
+#EXTINF:-0,RTL Nitro HD
+http://s1042-1-137.cdn.iptv.ch/session/25441926-5e97-11e7-8260-005056bc06d1/6cexmz/1/1027/3305000/1491822676.m3u8
+#EXTINF:-0,Sat
+http://s1021-0-136.cdn.iptv.ch/session/eb701c0a-5e7c-11e7-9d4d-005056bc1a52/6cexmz/1/1038/1368000/1491044125.m3u8
+#EXTINF:-0,Sat HD
+http://s1020-0-136.cdn.iptv.ch/session/40bf9bee-5e8d-11e7-a74c-005056bc49ac/6cexmz/1/1038/3305000/1491049827.m3u8
+#EXTINF:-0,ORF 1
+http://s1018-0-136.cdn.iptv.ch/session/43bf0d34-5e7e-11e7-8260-005056bc1a52/6cexmz/1/1010/1368000/1493767302.m3u8
+#EXTINF:-0,ORF 1 HD
+http://s1018-0-136.cdn.iptv.ch/session/28ae815e-5e8e-11e7-991f-005056bc1a52/6cexmz/1/1010/3305000/1493768969.m3u8
+#EXTINF:-0,ORF 2
+http://s1018-0-136.cdn.iptv.ch/session/ee829034-5e82-11e7-afbd-005056bc1a52/6cexmz/1/1011/1368000/1491826868.m3u8
+#EXTINF:-0,ORF 2 HD
+http://s1020-1-137.cdn.iptv.ch/session/9b816d36-5e8e-11e7-991f-005056bc1a52/6cexmz/1/1011/3305000/1491828123.m3u8
+#EXTINF:-0,3+
+http://s1019-0-136.cdn.iptv.ch/session/77352d22-5e8f-11e7-86e2-005056bc06d1/6cexmz/1/1013/3305000/1498334097.m3u8
+#EXTINF:-0,3+ HD
+http://s1019-0-136.cdn.iptv.ch/session/77352d22-5e8f-11e7-86e2-005056bc06d1/6cexmz/1/1013/3305000/1498334097.m3u8
+#EXTINF:-0,Vox
+http://s1020-0-136.cdn.iptv.ch/session/632111e6-5e91-11e7-a74c-005056bc49ac/6cexmz/1/1021/3305000/1491829028.m3u8
+#EXTINF:-0,Vox HD
+http://s1020-0-136.cdn.iptv.ch/session/632111e6-5e91-11e7-a74c-005056bc49ac/6cexmz/1/1021/3305000/1491829028.m3u8
+#EXTINF:-0,Kabel Eins
+http://s1020-1-137.cdn.iptv.ch/session/27f882c0-5e96-11e7-8260-005056bc06d1/6cexmz/1/1039/3305000/1491828457.m3u8
+#EXTINF:-0,Kabel Eins HD
+http://s1020-1-137.cdn.iptv.ch/session/27f882c0-5e96-11e7-8260-005056bc06d1/6cexmz/1/1039/3305000/1491828457.m3u8
+#EXTINF:-0,SIXX
+http://s1016-0-137.cdn.iptv.ch/session/74fae4ae-5e97-11e7-991f-005056bc1a52/6cexmz/1/1040/3305000/1491051545.m3u8
+#EXTINF:-0,SIXX HD
+http://s1016-0-137.cdn.iptv.ch/session/74fae4ae-5e97-11e7-991f-005056bc1a52/6cexmz/1/1040/3305000/1491051545.m3u8
+#EXTINF:-0,Tagesschau
+http://s1041-0-136.cdn.iptv.ch/session/ce1c577c-5e9a-11e7-aeab-005056bc49ac/6cexmz/2/1165/3305000/1493770069.m3u8
+#EXTINF:-0,Tagesschau HD
+http://s1041-0-136.cdn.iptv.ch/session/ce1c577c-5e9a-11e7-aeab-005056bc49ac/6cexmz/2/1165/3305000/1493770069.m3u8
+#EXTINF:-0,ZDF
+http://s1019-1-137.cdn.iptv.ch/session/5488aa58-5f19-11e7-991f-005056bc1a52/6cexmz/2/1166/3305000/1494607136.m3u8
+#EXTINF:-0,ZDF HD
+http://s1019-1-137.cdn.iptv.ch/session/5488aa58-5f19-11e7-991f-005056bc1a52/6cexmz/2/1166/3305000/1494607136.m3u8
+#EXTINF:-0,Arte
+http://s1016-1-137.cdn.iptv.ch/session/b333f030-5f19-11e7-b6ed-005056bc06d1/6cexmz/1/1150/3305000/1498348941.m3u8
+#EXTINF:-0,Arte HD
+http://s1016-1-137.cdn.iptv.ch/session/b333f030-5f19-11e7-b6ed-005056bc06d1/6cexmz/1/1150/3305000/1498348941.m3u8
+#EXTINF:-0,3Sat
+http://s1042-1-137.cdn.iptv.ch/session/f4373d94-5f19-11e7-9ec3-005056bc1a52/6cexmz/1/1117/3305000/1498348973.m3u8
+#EXTINF:-0,3Sat HD
+http://s1042-1-137.cdn.iptv.ch/session/f4373d94-5f19-11e7-9ec3-005056bc1a52/6cexmz/1/1117/3305000/1498348973.m3u8
+#EXTINF:-0,Super RTL
+http://s1021-0-136.cdn.iptv.ch/session/36a7856c-5f1a-11e7-9ec3-005056bc1a52/6cexmz/1/1023/3305000/1491065661.m3u8
+#EXTINF:-0,Super RTL HD
+http://s1021-0-136.cdn.iptv.ch/session/36a7856c-5f1a-11e7-9ec3-005056bc1a52/6cexmz/1/1023/3305000/1491065661.m3u8
+#EXTINF:-0,acht
+http://s1021-0-136.cdn.iptv.ch/session/7bcb3062-5f1a-11e7-9ec3-005056bc1a52/6cexmz/2/1053/3305000/1491063995.m3u8
+#EXTINF:-0,acht HD
+http://s1021-0-136.cdn.iptv.ch/session/7bcb3062-5f1a-11e7-9ec3-005056bc1a52/6cexmz/2/1053/3305000/1491063995.m3u8
+#EXTINF:-0,TV 24
+http://s1021-0-136.cdn.iptv.ch/session/b5a66496-5f1a-11e7-a74c-005056bc49ac/6cexmz/1/1042/3305000/1491841492.m3u8
+#EXTINF:-0,TV 24 HD
+http://s1021-0-136.cdn.iptv.ch/session/b5a66496-5f1a-11e7-a74c-005056bc49ac/6cexmz/1/1042/3305000/1491841492.m3u8
